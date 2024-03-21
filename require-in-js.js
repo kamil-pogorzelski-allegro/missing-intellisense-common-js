@@ -1,0 +1,2 @@
+const { exportedValue } = require('./source');
+
